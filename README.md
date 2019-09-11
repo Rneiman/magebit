@@ -1,0 +1,1 @@
+# Magebit: junior test
